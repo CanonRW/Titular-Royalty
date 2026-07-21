@@ -13,7 +13,7 @@ public class GameComponent_TitularRoyalty : GameComponent
     // Custom Titles
     private Dictionary<PlayerTitleDef, RoyalTitleOverride> customTitles;
     private Dictionary<PlayerTitleDef, RoyalTitleOverride> CustomTitles 
-        => field ??= TitleDatabase.TitlesBySeniority.ToDictionary(x => x, _ => new RoyalTitleOverride());
+        => customTitles ??= TitleDatabase.TitlesBySeniority.ToDictionary(x => x, _ => new RoyalTitleOverride());
 
     // Required for ExposeData
     private List<PlayerTitleDef> customTitles_List1;

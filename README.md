@@ -12,6 +12,9 @@
 1. Use the "Title Manager" button at any Vanilla (patches can be made for modded) Throne, then press rename on the title you want to change, press update titles to refresh the list so it applies in game.
 2. If you subscribed before the update make sure steam has updated the mod, you can tell because the preview image has changed in the modlist
 
+## 1.8.1 Hotfix
+- Fixed custom title changes resetting after reloading a save in RimWorld 1.6.
+
 
 ## 1.7 Update
 - Title Editor UI available in the Manage Titles menu.

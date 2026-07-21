@@ -2,8 +2,8 @@
   <PropertyGroup>
     <Authors>Canonov</Authors>
     <Copyright>Copyright © Canonov 2025</Copyright>
-    <AssemblyVersion>1.8.0.0</AssemblyVersion>
-    <FileVersion>1.8.0.0</FileVersion>
+    <AssemblyVersion>1.8.1.0</AssemblyVersion>
+    <FileVersion>1.8.1.0</FileVersion>
     
     <TargetFramework>net472</TargetFramework>
     <LangVersion>preview</LangVersion>

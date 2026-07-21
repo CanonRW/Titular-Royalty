@@ -3,7 +3,7 @@
   <name>Titular Royalty</name>
   <packageId>Canon.TitularRoyalty</packageId>
   <author>Canon</author>
-  <modVersion>1.8.0</modVersion>
+  <modVersion>1.8.1</modVersion>
   <supportedVersions>
     <li>1.5</li>
     <li>1.6</li>
@@ -26,6 +26,9 @@
   </loadAfter>
   <description>Adds titles to the player faction you can grant to your pawns with the Staff of Royalty or at Any Throne.
     
+    v1.8.1
+    - Fixed custom title changes resetting after reloading a save in RimWorld 1.6.
+
     v1.8.0
     - Added title-related mood and opinion thoughts.
     - Title thought state refreshes after title changes.
